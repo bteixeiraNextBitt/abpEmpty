@@ -1,0 +1,12 @@
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\bin\Debug\netcoreapp3.1\NB.Analytics.Domain.deps.json
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\bin\Debug\netcoreapp3.1\NB.Analytics.Domain.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\bin\Debug\netcoreapp3.1\NB.Analytics.Domain.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\bin\Debug\netcoreapp3.1\NB.Analytics.DomainShared.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\bin\Debug\netcoreapp3.1\NB.Analytics.DomainShared.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\obj\Debug\netcoreapp3.1\NB.Analytics.Domain.csprojAssemblyReference.cache
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\obj\Debug\netcoreapp3.1\NB.Analytics.Domain.AssemblyInfoInputs.cache
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\obj\Debug\netcoreapp3.1\NB.Analytics.Domain.AssemblyInfo.cs
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\obj\Debug\netcoreapp3.1\NB.Analytics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\obj\Debug\netcoreapp3.1\NB.Analytics.Domain.csproj.CopyComplete
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\obj\Debug\netcoreapp3.1\NB.Analytics.Domain.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Domain\obj\Debug\netcoreapp3.1\NB.Analytics.Domain.pdb

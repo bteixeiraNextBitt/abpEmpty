@@ -1,0 +1,16 @@
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\obj\Debug\netcoreapp3.1\NB.Analytics.Application.csprojAssemblyReference.cache
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\obj\Debug\netcoreapp3.1\NB.Analytics.Application.AssemblyInfoInputs.cache
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\obj\Debug\netcoreapp3.1\NB.Analytics.Application.AssemblyInfo.cs
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\obj\Debug\netcoreapp3.1\NB.Analytics.Application.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.Application.deps.json
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.Application.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.Domain.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.DomainShared.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.Domain.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.DomainShared.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\obj\Debug\netcoreapp3.1\NB.Analytics.Application.csproj.CopyComplete
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\bin\Debug\netcoreapp3.1\NB.Analytics.Application.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\obj\Debug\netcoreapp3.1\NB.Analytics.Application.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.Application\obj\Debug\netcoreapp3.1\NB.Analytics.Application.pdb

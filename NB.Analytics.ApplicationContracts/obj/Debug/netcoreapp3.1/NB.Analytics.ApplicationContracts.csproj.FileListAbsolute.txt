@@ -1,0 +1,12 @@
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\bin\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.deps.json
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\bin\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\bin\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\bin\Debug\netcoreapp3.1\NB.Analytics.DomainShared.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\bin\Debug\netcoreapp3.1\NB.Analytics.DomainShared.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\obj\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.csprojAssemblyReference.cache
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\obj\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.AssemblyInfoInputs.cache
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\obj\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.AssemblyInfo.cs
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\obj\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.csproj.CopyComplete
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\obj\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.dll
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\obj\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.pdb
+C:\Users\Bernardo Teixeira\Desktop\analytics\NB.Analytics\NB.Analytics.ApplicationContracts\obj\Debug\netcoreapp3.1\NB.Analytics.ApplicationContracts.csproj.CoreCompileInputs.cache

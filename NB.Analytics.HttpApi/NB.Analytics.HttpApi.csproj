@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="NBAnalyticsHttpApiModule.cs~RFf26669b.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp" Version="3.3.1" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="3.3.1" />
+    <PackageReference Include="Volo.Abp.Localization" Version="3.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NB.Analytics.ApplicationContracts\NB.Analytics.ApplicationContracts.csproj" />
+  </ItemGroup>
+
+</Project>
